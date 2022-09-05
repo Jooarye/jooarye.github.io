@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+Hey,
 
-Maybe say a some things about yourself.
+you seem to have stumbled upon my Blog. This is where I post about stuff that I find interesting or stuff that I have made.
 
-Or maybe what you plan to blog about.
+## About Me
+I'm a computer science student from Germany. I'm interested in everything about computers but specifically compilers and cryptography.
